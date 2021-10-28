@@ -1,0 +1,16 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img{
+  height: 70px;
+  width: 100px;
+  /* padding-top: 100px; */
+}
+img.ig{
+  width: 400px;
+  height: 300px;
+}
